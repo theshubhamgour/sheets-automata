@@ -6,8 +6,6 @@
 
 📝 The function also clears the output from the previous run before appending new data to the first sheet.
 
-Feel free to customize and expand upon this description to best fit your needs and the specifics of your project.
-
 
 # Features
 Compare two sheets and append new data to the first sheet
